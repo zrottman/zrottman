@@ -4,8 +4,8 @@ I'm an art historian-and-erstwhile-WordPress-developer-turned-engineer who loves
 
 I'm currently finishing up my batch at the [Recurse Center](https://www.recurse.com/), a self-directed coding retreat, where I've been focusing on infrastructure and networking projects in Python and C and generally pairing and collaborating as much as possible.
 
-- 🔭 Currently working on: a [disassembler](https://github.com/zrottman/disassembler) for the [ForwardCom instruction set architecture](https://www.forwardcom.info/), a [DNS resolver](https://github.com/zrottman/dns_c), and a [compiler for a Java-like language](https://github.com/zrottman/nand2tetris/tree/main/projects/10) for [Nand to Tetris](https://github.com/zrottman/nand2tetris)
-- 🌱 Currently learning: C, networking fundamentals, Lisp/Scheme
+- 🔭 Currently working on: [zcc](https://github.com/zrottman/disassembler), a C compiler front-end
+- 🌱 Currently learning: C, networking fundamentals, Go
 - 🧐 Languages I'm excited to learn next: Rust, Elixir, Clojure
 - 🛠️ Projects I'm excited to tackle next: building a text editor in C, building an interpreter, *Computer Systems: A Programmer's Perspective*, [Gossip Glomers](https://fly.io/blog/gossip-glomers/), [Cryptopals](https://cryptopals.com/), [Protohackers](https://protohackers.com/)
 
